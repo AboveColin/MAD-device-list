@@ -82,6 +82,11 @@ Possible entries:
 
 If you put in yes/soldering please leave a note with explanation or contact for questions. 
 
+## Compatible Consoles:
+| Modelname | Magisk | Smali | Effort | Time | Notes |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| [Nintendo Switch](https://www.amazon.com/Nintendo-Switch-Gray-Joy/dp/B01LTHP2ZK) | 18.1 | Yes | some effort | ?? min. | notes |
+
 **DON'T TRY THIS AT HOME** (unless you know what you're doing)
 If you burn down your house, you'll get a special role in discord. But that's all. 
 
